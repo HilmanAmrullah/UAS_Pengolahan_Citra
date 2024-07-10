@@ -22,6 +22,24 @@
 
 ![Output latihan](gambar/pemandangan.jpg)
 <br>
-<h2>Ini Output Latihan Copy</h2>
+<h2>Ini Output Graph nya</h2>
 
-![Output latihan](gambar/output.copy.png)
+![Output latihan](gambar/output.png)
+<br>
+<h2>Ini Output Graph nya</h2>
+
+![Output latihan](gambar/output.png)
+<br>
+<h2>Ini Output setelah di ubah</h2>
+
+![Output latihan](gambar/1.png)
+<br>
+![Output latihan](gambar/2.png)
+<br>
+![Output latihan](gambar/3.png)
+<br>
+![Output latihan](gambar/4.png)
+<br>
+![Output latihan](gambar/5.png)
+<br>
+![Output latihan](gambar/6.png)
