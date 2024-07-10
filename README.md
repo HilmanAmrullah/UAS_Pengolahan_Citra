@@ -23,8 +23,10 @@
 ![Output latihan](gambar/pemandangan.jpg)
 <br>
 <h2>Ini Output Graph nya</h2>
+
 ![Output latihan](output_images/output.png)
 <br>
+
 <h2>Ini Output setelah di ubah</h2>
 
 ![Output latihan](output_images/1.png)
