@@ -24,22 +24,22 @@
 <br>
 <h2>Ini Output Graph nya</h2>
 
-![Output latihan](gambar/output.png)
+![Output latihan](output_images/output.png)
 <br>
 <h2>Ini Output Graph nya</h2>
 
-![Output latihan](gambar/output.png)
+![Output latihan](output_images/output.png)
 <br>
 <h2>Ini Output setelah di ubah</h2>
 
-![Output latihan](gambar/1.png)
+![Output latihan](output_images/1.png)
 <br>
-![Output latihan](gambar/2.png)
+![Output latihan](output_images/2.png)
 <br>
-![Output latihan](gambar/3.png)
+![Output latihan](output_images/3.png)
 <br>
-![Output latihan](gambar/4.png)
+![Output latihan](output_images/4.png)
 <br>
-![Output latihan](gambar/5.png)
+![Output latihan](output_images/5.png)
 <br>
-![Output latihan](gambar/6.png)
+![Output latihan](output_images/6.png)
